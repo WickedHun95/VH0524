@@ -1,4 +1,4 @@
-package main.java;
+package main.java.data;
 
 import java.math.BigDecimal;
 import java.util.LinkedHashMap;

@@ -1,4 +1,6 @@
-package main.java;
+package main.java.helpers;
+
+import main.java.data.Tool;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

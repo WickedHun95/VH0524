@@ -1,4 +1,4 @@
-package main.java;
+package main.java.helpers;
 
 public class Validator {
     public void validateDiscountPercent(int discountPercent) {
